@@ -5,6 +5,15 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="florida_sky">#FF36F4FF</color>
+    <color name="florida_ocean">#FF02959E</color>
+    <color name="florida_deep_blue_sea">#FF0A4040</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="BadTipColor">#E80E32</color>
+    <color name="AcceptableTipColor">#EB7203</color>
+    <color name="GoodTipColor">#FFEB00</color>
+    <color name="AmazingTipColor">#6AEB00</color>
+    <color name="FantasticTipColor">#007A23</color>
+
 </resources>

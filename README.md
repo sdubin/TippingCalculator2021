@@ -5,11 +5,11 @@ Implementation of the Tipping Calculator from Standford CS194A Android Programmi
 
 ## Functionality
 Tipping calculator built on Kotlin code will run on Android devices. Features include:
-* [ ] Display of Bill total for which a tip will be applied.
-* [ ] Display of tip percentage options for the user.
-* [ ] Tool that updates immediately when bill total and tip percentage are modified.
-* [ ] Display of tip in US dollars calculated from the percentage chosen.
-* [ ] Display of total cost of bill with the inclusion of the tip.
+* [x] Display of Bill total for which a tip will be applied.
+* [x] Display of tip percentage options for the user.
+* [x] Tool that updates immediately when bill total and tip percentage are modified.
+* [x] Display of tip in US dollars calculated from the percentage chosen.
+* [x] Display of total cost of bill with the inclusion of the tip.
 
 ## Extensions 
 
